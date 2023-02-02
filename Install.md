@@ -17,7 +17,7 @@ sudo amazon-linux-extras install docker -y
 3. Start Docker
 
 ```
-systemctl start docker
+sudo service docker start
 ```
 
 4. Enable Docker
